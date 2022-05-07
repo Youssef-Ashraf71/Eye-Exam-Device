@@ -43,5 +43,5 @@ Our aim was to reduce the cost and boost the clearness of the diagram/model so w
 - Amir Hesham 
 - Ali Badran 
 - Hesham Tamer 
-- MUhannad abdallah
+- Muhannad abdallah
 - Youssef Ashraf Mohammed
