@@ -2,18 +2,13 @@
 
 ## Device Description
 
-
-
-
-
-
-
-
-
-
-
-
-
+A device that does eye examination to measure sight acuity.
+This device consists of 6 points placed circularly around the  center point of the board and the patient will be given a hand
+laser and will be asked to:
+1. Move a certain distance away from the board
+2. Aim at certain points on the mirror so the patient can hit targets on the board behind him/her.
+After the examination the board will calculate the percentage of hits with respect to the while test targets (%) and this
+percentage will represent a **new eye sharpness scale** to indicate how well the patient’s visual acuity is.
 
 
 ## Electronic Design Section:
