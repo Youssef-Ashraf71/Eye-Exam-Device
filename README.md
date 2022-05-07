@@ -35,6 +35,7 @@ Our aim was to reduce the cost and boost the clearness of the diagram/model so w
 Made with Tinkercad®
 ![image](https://user-images.githubusercontent.com/83988379/167162591-08818a76-c923-444b-8047-234f345fc418.png)
 ### Electronic Schematic
+Made with Tinkercad®
 ![image](https://user-images.githubusercontent.com/83988379/167162652-87b7c963-a0c6-4068-9506-79f9eea4f040.png)
 
 
